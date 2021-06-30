@@ -1,0 +1,27 @@
+*{
+    margin: 10px;;
+    padding:10px;
+}
+h1{
+    background-color: rgb(245, 203, 153);
+}
+body{
+    background-color:bisque;
+    text-align: center;
+    font: normal;
+     }
+div{
+    background-color:rgb(245, 203, 153);
+    font: large;
+}
+p{
+    padding-right: 0px;
+    margin:20px;
+    font-size:x-large;
+}
+div img{
+    display:inline;
+    width:500px;
+    height:380px;
+
+}
